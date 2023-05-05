@@ -1,10 +1,22 @@
 [
-    {
-        "category_id": 1,
-        "category_name": "electronics"
-    },
-    {
-        "category_id": 2,
-        "category_name": "clothes"
-    }
+  {
+    "category_id": 1,
+    "category_name": "electronics"
+  },
+  {
+    "category_id": 2,
+    "category_name": "clothes"
+  },
+  {
+    "category_id": 3,
+    "category_name": "furniture"
+  },
+  {
+    "category_id": 4,
+    "category_name": "food"
+  },
+  {
+    "category_id": 5,
+    "category_name": "wear"
+  }
 ]

@@ -1,12 +1,20 @@
 [
     {
         "user_id": 1,
-        "username": "salim",
+        "username": "Ahror",
         "password": "6e656676e46fbe15e5f74882aff541c6707547014580543ed6040ac7f17a6880"
     },
     {
         "user_id": 2,
-        "username": "komil",
+        "username": "Zayniddin",
+        "password": "6e656676e46fbe15e5f74882aff541c6707547014580543ed6040ac7f17a6880"
+    },    {
+        "user_id": 3,
+        "username": "Komil",
+        "password": "6e656676e46fbe15e5f74882aff541c6707547014580543ed6040ac7f17a6880"
+    },    {
+        "user_id": 4,
+        "username": "Ra'no",
         "password": "6e656676e46fbe15e5f74882aff541c6707547014580543ed6040ac7f17a6880"
     }
 ]

@@ -1,5 +1,5 @@
 {
-  "name": "papka",
+  "name": "exam",
   "version": "1.0.0",
   "description": "",
   "type": "module",
@@ -9,8 +9,11 @@
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js"
+    "start": "nodemon server.js"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.22"
+  }
 }
